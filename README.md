@@ -1,8 +1,8 @@
 # ✈️ British Airways Review Dashboard
 
-This Tableau dashboard presents a comprehensive analysis of customer reviews for British Airways, spanning from March 2016 to October 2023. It explores passenger sentiment across multiple dimensions—service quality, comfort, value, and more—offering insights by aircraft type, country, and traveler profile.
+This Tableau dashboard presents a comprehensive analysis of customer reviews for British Airways, spanning from March 2016 to October 2023. It explores passenger sentiment across multiple dimensions—service quality, comfort, value, and more—offering insights by aircraft type, country and traveler profile.
 
-![Dashboard Preview](dashboard-image.png) <!-- Replace with actual image filename -->
+![Dashboard Preview](British Airways Review .png)
 
 ## 🔍 Key Features
 
