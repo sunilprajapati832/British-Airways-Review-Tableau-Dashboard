@@ -40,7 +40,8 @@ This project was inspired by the need to understand how customer experience vari
 ## 🧵 Author
 
 **Sunil Prajapati**  
-Data Analyst 
+Data Analyst
+
 Connect with me on [LinkedIn](www.linkedin.com/in/sunil-prajapati832) or explore more projects on [GitHub](https://github.com/sunilprajapati832)
 
 ---
