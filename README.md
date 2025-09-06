@@ -36,8 +36,6 @@ This project was inspired by the need to understand how customer experience vari
 ## 🛠️ Tools Used
 
 - **Tableau Public** – for dashboard design and interactivity  
-- **Python (Pandas, NumPy)** – for data cleaning and preprocessing  
-- **Excel** – for initial data formatting and validation
 
 ## 🧵 Author
 
