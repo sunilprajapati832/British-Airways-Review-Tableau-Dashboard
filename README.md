@@ -12,10 +12,10 @@ It explores passenger sentiment across multiple dimensions—service quality, co
 
 - **Interactive Filters**  
   Slice the data by:
-  - Rating category
-  - Month of travel
-  - Traveller type (e.g., Business, Couple Leisure)
-  - Seat type (Economy, Premium Economy, Business, First Class)
+    - Rating category
+    - Month of travel
+    - Traveller type (e.g.: Business, Couple Leisure)
+    - Seat type (Economy, Premium Economy, Business, First Class)
 
 - **Dynamic Visuals**
   - 📈 *Average Overall Rating by Month*: Time series trends from 2016–2023  
