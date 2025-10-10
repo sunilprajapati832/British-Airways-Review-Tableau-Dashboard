@@ -38,12 +38,8 @@ This project was inspired by the need to understand how customer experience vari
 
 - **Tableau Public** – for dashboard design and interactivity  
 
-## 🧵 Author
+## Connect with Me 🤝
+If you found this project interesting, let’s connect!  
 
-**Sunil Prajapati**  
-Data Analyst
-
-Connect with me on [LinkedIn](www.linkedin.com/in/sunil-prajapati832) or explore more projects on [GitHub](https://github.com/sunilprajapati832)
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Me-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sunil-prajapati832) 
 
