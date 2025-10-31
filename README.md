@@ -5,7 +5,7 @@ It explores passenger sentiment across multiple dimensions—service quality, co
 
 ![Dashboard Preview](BritishAirwaysReview.png)
 
-## 🔍 Key Features
+## Key Features
 
 - **Average Ratings Breakdown**  
   Visualizes scores across categories like Cabin Staff Service, Entertainment, Food & Beverages, Ground Service, Seat Comfort and Value for Money.
