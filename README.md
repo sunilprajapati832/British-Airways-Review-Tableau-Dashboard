@@ -35,7 +35,6 @@ Explore the live dashboard on Tableau Public:
 This project was inspired by the need to understand how customer experience varies across different flight conditions and aircraft types. It demonstrates how data visualization can uncover patterns in service quality and traveler satisfaction, helping airlines and passengers alike make informed decisions.
 
 ## 🛠️ Tools Used
-
 - **Tableau Public** – for dashboard design and interactivity  
 
 ## Connect with Me 🤝
