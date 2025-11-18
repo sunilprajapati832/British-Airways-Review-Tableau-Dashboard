@@ -110,7 +110,8 @@ Users can interact through:
 | `dashboard.png`                          | Screenshot of the final dashboard |
 | `README.md`                              | Project documentation             |
 
-**Download Dashboard** https://github.com/sunilprajapati832/British-Airways-Review-Tableau-Dashboard/blob/main/British%20Airways%20Review%20Dashboard.hyper
+**Download Dashboard** 
+https://github.com/sunilprajapati832/British-Airways-Review-Tableau-Dashboard/blob/main/British%20Airways%20Review%20Dashboard.hyper
 
 **License** This project is licensed under the MIT License (Attribution Required). If you use any part of this project, please give proper credit to the author – Sunil Prajapati.
 
