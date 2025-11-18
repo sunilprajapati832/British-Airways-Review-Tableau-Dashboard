@@ -31,6 +31,15 @@ Contains detailed customer reviews with the following columns:
 | value_for_money     | Value for money rating           |
 | entertainment       | In-flight entertainment rating   |
 
+### Countries.csv (Country Metadata)
+Provides additional details for geographical mapping:
+| Column Name | Description           |
+| ----------- | --------------------- |
+| Country     | Country name          |
+| Code        | Country code          |
+| Continent   | Continent name        |
+| Region      | Region classification |
+
 
 
 
