@@ -4,9 +4,7 @@
 This Tableau project analyzes British Airways customer reviews from March 2016 to October 2023, focusing on passenger sentiment, service experience and satisfaction trends. The dashboard helps identify performance patterns across countries, aircraft types, traveler categories and time periods, enabling data-driven insights into airline service quality.
 
 ## Problem Statement
-- Airlines receive thousands of customer reviews, yet understanding patterns across time, locations and traveler types is challenging.
-- This dashboard solves that by bringing together review scores, traveler attributes and aircraft information into a single analytics view.
-- It helps stakeholders identify what influences passenger satisfaction and where improvements can be made.
+Airlines receive thousands of customer reviews, yet understanding patterns across time, locations and traveler types is challenging. This dashboard solves that by bringing together review scores, traveler attributes and aircraft information into a single analytics view. It helps stakeholders identify what influences passenger satisfaction and where improvements can be made.
 
 
 ![Dashboard Preview](BritishAirwaysReview.png)
