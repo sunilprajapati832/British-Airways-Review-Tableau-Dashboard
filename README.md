@@ -40,11 +40,8 @@ Provides additional details for geographical mapping:
 | Continent   | Continent name        |
 | Region      | Region classification |
 
-
-
-
-
-
+## British Airways Review Dashboard.hyper (Dashboard Preview)
+Tableau data extract combining all processed data for visualization.
 ![Dashboard Preview](BritishAirwaysReview.png)
 
 ## Key Features
