@@ -70,6 +70,51 @@ Users can interact through:
 - Aircraft Group: All aircraft models used by British Airways
 - Continent: Europe, Asia, Africa, etc.
 
+## 📈 Dashboard Visuals
+- Average Overall Rating by Month
+   * A line chart showing trends over 7+ years
+   * ECG-like pattern displaying satisfaction fluctuations
+   * Shows seasonal dips and improvements
+- Average Overall Rating by Country (Geo Map)
+   * Color-coded world map
+   * Helps identify countries with best/worst service experience
+- Rating by Aircraft Type (Vertical Bars)
+   * Shows rating differences between aircraft
+   * Includes: Overall Rating
+   * Number of Reviews
+- Additional Insights (in KPIs + Charts)
+   * Review counts
+   * Traveler behavior
+   * Seat type preferences
+   * Regional service patterns
+
+## Key Insights
+- Countries in Europe and the Middle East show higher average ratings than others.
+- First Class and Business Class generally receive better ratings than Economy.
+- Cabin staff service strongly influences overall satisfaction.
+- Certain aircraft types consistently score higher, indicating better comfort or service.
+- Seasonal patterns indicate periodic dips in customer satisfaction.
+
+## Tools & Technologies
+- **Tableau Desktop** – Dashboard creation
+- **Tableau Prep / Tableau Extract (.hyper)** – Cleaning & modeling
+- **CSV Data Files** – Source datasets
+- **GitHub** – Project hosting
+
+## Files in This Repository
+| File Name                                | Description                       |
+| ---------------------------------------- | --------------------------------- |
+| `British Airways Review Dashboard.hyper` | Tableau data extract              |
+| `ba_reviews.csv`                         | Main review dataset               |
+| `Countries.csv`                          | Country metadata dataset          |
+| `dashboard.png`                          | Screenshot of the final dashboard |
+| `README.md`                              | Project documentation             |
+
+
+
+
+
+
 ## Key Features
 
 - **Average Ratings Breakdown**  
