@@ -44,6 +44,32 @@ Provides additional details for geographical mapping:
 Tableau data extract combining all processed data for visualization.
 ![Dashboard Preview](BritishAirwaysReview.png)
 
+## Key Dashboard Metrics (KPIs)
+The Tableau dashboard displays the following averages:
+- Average Overall Rating
+- Avg. Cabin Staff Service Rating
+- Avg. Entertainment Rating
+- Avg. Food & Beverages Rating
+- Avg. Ground Service Rating
+- Avg. Seat Comfort Rating
+- Avg. Value for Money Rating
+
+## Dashboard Filters / Controls
+Users can interact through:
+- Pick a Metric:
+     * Overall Rating
+     * Cabin Staff Service
+     * Entertainment
+     * Food & Beverages
+     * Ground Service
+     * Seat Comfort
+     * Value for Money
+- Month of Date: March 2016 → October 2023
+- Traveller Type: Business, Solo, Couple, Family, etc.
+- Seat Type: Economy, Premium, Business, First Class
+- Aircraft Group: All aircraft models used by British Airways
+- Continent: Europe, Asia, Africa, etc.
+
 ## Key Features
 
 - **Average Ratings Breakdown**  
