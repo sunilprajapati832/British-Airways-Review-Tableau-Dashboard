@@ -7,6 +7,7 @@ This Tableau project analyzes British Airways customer reviews from March 2016 t
 Airlines receive thousands of customer reviews, yet understanding patterns across time, locations and traveler types is challenging. This dashboard solves that by bringing together review scores, traveler attributes and aircraft information into a single analytics view. It helps stakeholders identify what influences passenger satisfaction and where improvements can be made.
 
 ## Dataset Description
+
 ### ba_reviews.csv (Main Reviews Dataset)
 Contains detailed customer reviews with the following columns:
 | Column Name         | Description                      |
